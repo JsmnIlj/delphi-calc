@@ -1,7 +1,7 @@
 unit calc;
 
 // Calculator application for Windows, built in September 2020.
-// Creator: Jasmin I.
+// Creator: Jasmin I. (https://github.com/Jsmnilj)
 
 // DISCLAIMER: This application has been built for educational uses since I
 // wanted to get used to programming in Delphi. I used the following tutorial
@@ -10,6 +10,8 @@ unit calc;
 
 // Application icon source: http://icons8.com/
 // Usage license: http://icons8.com/license/
+
+// Have fun playing around with this. If you've got any feedback, please message me on github. :)
 
 
 interface
